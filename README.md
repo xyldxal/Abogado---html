@@ -1,1 +1,1 @@
-#HTML Exercise # 2
+# HTML Exercise # 2 -- Intro to Computing
